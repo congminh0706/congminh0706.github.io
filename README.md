@@ -39,7 +39,7 @@ The Website For Web Design
     <section>
         <h2>More About Me</h2>
         <details>
-            <summary>My Childhood</summary>I grew up in Mumbai.I lived in a small house and I really miss the fun which I had back then.
+            <summary>My Childhood</summary>Hello my name is Minh.
         </details>
     </section>
     <footer>
